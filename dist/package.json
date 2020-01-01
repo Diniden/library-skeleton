@@ -1,0 +1,13 @@
+{
+  "author": {
+    "name": "<REPLACE ME>",
+    "email": "<REPLACE ME>",
+    "url": "<REPLACE ME>"
+  },
+  "name": "<REPLACE ME>",
+  "version": "1.0.0",
+  "main": "index.js",
+  "types": "src/index.d.ts",
+  "license": "MIT",
+  "dependencies": {}
+}
