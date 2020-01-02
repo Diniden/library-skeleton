@@ -1,14 +1,8 @@
-import { Demo } from "./demo";
+import {} from '../src';
 
 async function start() {
   const container = document.getElementById("main");
   if (!container) return;
-
-  const app = new Demo({
-    container
-  });
-
-  await app.init();
 }
 
 start();
